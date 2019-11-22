@@ -54,7 +54,7 @@
 
       <router-link tag="div" to="/" class="vx-logo cursor-pointer mx-auto flex items-center">
         <img :src="logo" alt="logo" class="w-10 mr-4" v-if="logo">
-        <span class="vx-logo-text">Vuexy</span>
+        <span class="vx-logo-text">DevAction</span>
       </router-link>
 
       <!-- I18N -->
