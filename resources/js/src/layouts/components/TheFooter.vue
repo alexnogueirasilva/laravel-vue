@@ -35,7 +35,7 @@ export default {
     inject: {
       components:{
           default: {
-            BuyNow
+            
           }
       }
     }
